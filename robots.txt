@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hozruv.github.io/ydA/sitemap.ydA.gz
